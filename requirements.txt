@@ -1,0 +1,5 @@
+gradio
+PyPDF2
+faiss-cpu
+google-generativeai
+python-dotenv
