@@ -17,6 +17,12 @@ A simple AI-powered chatbot that lets you **ask questions about any PDF document
 
 ## 🚀 Demo
 
+Here’s a preview of the Lab Assistant Chatbot in action:
+##Pdf Upload and Chunks division
+![PDF Upload Screenshot](https://github.com/rahulbamnuya/lab-assistant-chatbot/raw/main/Screenshot%202025-05-16%20012557.png)
+##Chat with pdf and lab assistant
+![Chat Interface Screenshot](https://github.com/rahulbamnuya/lab-assistant-chatbot/raw/main/Screenshot%202025-05-16%20012610.png)
+
 
 
 ---
